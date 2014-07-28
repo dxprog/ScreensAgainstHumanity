@@ -1,0 +1,16 @@
+{
+  "name": "Screens-Against-Humanity",
+  "version": "0.0.0",
+  "description": "A tablet/smartphone version of Cards Against Humanity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hackmann",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "q": "~1.0.1",
+    "websocket": "~1.0.8"
+  }
+}
